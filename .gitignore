@@ -1,0 +1,13 @@
+# Materiais brutos e arquivos de trabalho
+videos/
+pagina_referencia/
+*.mov
+*.mp4
+*.pdf
+
+# Sistema e ferramentas
+.DS_Store
+Thumbs.db
+.codex/
+.agents/
+__pycache__/
